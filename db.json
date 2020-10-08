@@ -33,7 +33,7 @@
       "titulo": "Mitologia Nórdica",
       "capa": "mitologia_nordica.jpg",
       "descricao": "As lendas nórdicas sempre tiveram uma forte influência no universo de Neil Gaiman. Em Mitologia Nórdica, o multipremiado autor regressou às suas fontes para criar quinze contos relacionados com a grande saga dos deuses escandinavos, que inspiraram a sua obra-prima Deuses Americanos. Da génese do mundo ao crepúsculo dos deuses e à era dos homens, eles readquirem vida: Odin, o mais poderoso dos deuses, sábio, corajoso e astuto; Thor, seu filho, incrivelmente forte mas turbulento; Loki, filho de um gigante e irmão de Odin, ardiloso e manipulador... Orgulhosas, impulsivas e arrebatadoras, estas divindades míticas transmitem-nos a sua apaixonante - e muito humana - história.",
-      "emprestimo": true
+      "emprestimo": false
     },
     {
       "id": 6,
